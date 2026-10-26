@@ -1,0 +1,14 @@
+{
+  "project": "howard-florey-ai",
+  "network": "Solana Devnet",
+  "cluster_url": "https://api.devnet.solana.com",
+  "mint_address": "DRGNV36NF5ww25fB5jDUBFYavyFzahoSjT9Zc8arA1HG",
+  "vault_account": "5SgjWp7Tz7nxYvLS3dGZCTLzJZfcwgLN6MYQqJtoqkma",
+  "initial_supply": 1000000,
+  "decimals": 9,
+  "creation_tx": "4Hq2kcH6tY1c3AhWZaU377Mw4HqnGLNnJdiQ83Uy8HFsEm5xCSsvDWi7rFF4CB8XCqoFyCErKUuLjvkmH1eAcVNu",
+  "account_tx": "W6JmFxP5N2gmsRy9qiBTbhHyg1SYXQ5qH1RZH27YLvUMFJSpjEC1snUgdz3srENCGvChNYeMd1yRpBW93uYXEey",
+  "mint_tx": "ZVdwbc6TfMqhnTWt1gjyQR4Bn3qnNDKPVrDkNmkZNwhiFdD33VC5zYrf6FgvDG6JXhBNGMt6xW4ytgoxXC38MTz",
+  "solana_explorer_mint": "https://explorer.solana.com/address/DRGNV36NF5ww25fB5jDUBFYavyFzahoSjT9Zc8arA1HG?cluster=devnet",
+  "timestamp": "2026-10-26 16:39:36 UTC"
+}
